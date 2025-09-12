@@ -11,7 +11,7 @@ It is optimized for speed with a **multi-threaded CPU pipeline**, and optionally
 - ⚡ Automatic focus alignment using cross-correlation  
 - 🧵 Multi-threaded frame processing (uses all CPU cores)  
 - 🔄 CUDA acceleration support (if GPU supported and OpenCV compiled with CUDA)  
-- 🎚 Configurable FPS export method (native, duration-based, or custom)  
+- 🎚 Configurable FPS export method (Custom, Frames and Duration Based, OenCV Native)  
 - 🖥 Simple command-line prompts for all options  
 
 ---
