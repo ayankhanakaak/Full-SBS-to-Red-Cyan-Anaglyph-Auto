@@ -52,4 +52,4 @@ pip install opencv-python opencv-contrib-python tqdm numpy
 ---
 
 ## 📜 License
-MIT License – Free to use and modify.
+GPL-3.0
