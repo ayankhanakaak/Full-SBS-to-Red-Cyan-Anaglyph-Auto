@@ -32,7 +32,7 @@ You will be prompted for:
 ---
 
 ## ⚙️ Requirements
-- Python 3.8+  
+- Python 3.8+ (Recommended 3.13.7)  
 - [OpenCV](https://opencv.org/) with `opencv-contrib-python`  
 - [tqdm](https://pypi.org/project/tqdm/)  
 - CUDA-enabled OpenCV build (optional, for GPU acceleration)
