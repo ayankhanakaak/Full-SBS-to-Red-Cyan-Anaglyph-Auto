@@ -19,7 +19,7 @@ It is optimized for speed with a **multi-threaded CPU pipeline**, and optionally
 ## 🚀 Usage
 Run the script:
 ```bash
-python3 Full\ SBS\ to\ Red-Cyan\ Anaglyph\ Auto.py
+python "Full SBS to Red-Cyan Anaglyph Auto - V.05.09.2025-2.py"
 ```
 
 You will be prompted for:
